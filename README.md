@@ -1,4 +1,4 @@
-# FAR-project Description
+# Goal of this project
 
 One major complication of a spinal cord injury resulting in paralysis is the consequential lack of ability to maintain a healthy body temperature. 
 Our design aims to reduce the risk of frostbite by notifying the disabled individual when their skin temperature is too low.
